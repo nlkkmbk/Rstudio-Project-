@@ -8,14 +8,14 @@ from 2023.
 
 ---
 
-## 📄 Final Report
-📘 **PDF Report**
+## Final Report
+ **PDF Report**
 - `SDS_301_REPORT (6) (2).pdf`
 
 ---
 
-## 🧠 R Script
-📜 **Main Analysis Code**
+## R Script
+**Main Analysis Code**
 - `eda+model(res,qq)+evaluation+conf int (3).R`
 
 This script includes:
@@ -27,7 +27,7 @@ This script includes:
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 ### Dataset Summary
 ![Summary](summary.png)
@@ -56,7 +56,7 @@ This script includes:
 ### Log Transformation
 ![Log Transformation](log%20%281%29.png)
 
-## 📈 Regression Models — Diagnostics
+## Regression Models — Diagnostics
 
 ### Model 1 (M1)
 ![M1](M1%20%281%29.png)
@@ -85,7 +85,7 @@ This script includes:
 ### Model 9 (M9)
 ![M9](M9%20%281%29.png)
 
-## ▶️ How to Run the Code
+## How to Run the Code
 
 ```bash
 Rscript "eda+model(res,qq)+evaluation+conf int (3).R"
