@@ -36,58 +36,54 @@ This script includes:
 ![Missing Values](isnull.png)
 
 ### Numerical Variable Distributions
-![Numerical Histograms](numericalhist (1).png)
+![Numerical Histograms](numericalhist%20%281%29.png)
 
 ### Correlation Matrix
-![Correlation Matrix](CorrelationNumeric (1).png)
+![Correlation Matrix](CorrelationNumeric%20%281%29.png)
 
 ### Target Variable: Distance
-![Distance Distribution](distance (1).png)
+![Distance Distribution](distance%20%281%29.png)
 
 ### Severity Overview
-![Severity](severity (1).png)
+![Severity](severity%20%281%29.png)
 
 ### Boxplots & Outliers
-![Boxplots](boxplots (1).png)
+![Boxplots](boxplots%20%281%29.png)
 
 ### Outlier Analysis
-![Outliers](outliers (1).png)
+![Outliers](outliers%20%281%29.png)
 
 ### Log Transformation
-![Log Transformation](log (1).png)
-
----
+![Log Transformation](log%20%281%29.png)
 
 ## 📈 Regression Models — Diagnostics
 
 ### Model 1 (M1)
-![M1](M1 (1).png)
+![M1](M1%20%281%29.png)
 
 ### Model 2 (M2)
-![M2](M2 (1).png)
+![M2](M2%20%281%29.png)
 
 ### Model 3 (M3)
-![M3](M3 (1).png)
+![M3](M3%20%281%29.png)
 
 ### Model 4 (M4)
-![M4](M4 (1).png)
+![M4](M4%20%281%29.png)
 
 ### Model 5 (M5)
-![M5](M5 (1).png)
+![M5](M5%20%281%29.png)
 
 ### Model 6 (M6)
-![M6](M6 (1).png)
+![M6](M6%20%281%29.png)
 
 ### Model 7 (M7)
-![M7](M7 (1).png)
+![M7](M7%20%281%29.png)
 
 ### Model 8 (M8)
-![M8](M8 (1).png)
+![M8](M8%20%281%29.png)
 
 ### Model 9 (M9)
-![M9](M9 (1).png)
-
----
+![M9](M9%20%281%29.png)
 
 ## ▶️ How to Run the Code
 
